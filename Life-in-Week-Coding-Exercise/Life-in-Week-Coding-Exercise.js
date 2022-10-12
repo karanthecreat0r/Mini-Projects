@@ -26,6 +26,14 @@
 // Try using this Repl.it playground to test your code and see if the output is what you exepect it to be.
 // Make sure your console.log output matches the example output precisely. The same capitalisation, the same spaces, commas and full stops.
 
+
+
+
+// -----------------------//Codeing----------------------------------
+
+
+
+
 function lifeInWeeks(age) {
     var yearsReamaining =90-age;
     var  days =yearsReamaining* 365;
